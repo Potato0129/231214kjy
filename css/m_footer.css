@@ -1,0 +1,60 @@
+footer {
+  width: 100vw;
+  height: 340px;
+  background-color: black;
+}
+.footLinks {
+  margin: 0 auto;
+  width: 176px;
+  height: 48px;
+  display: flex;
+  justify-content: space-between;
+}
+.footBtsWrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 50px;
+}
+#footB1 {
+  background-color: white;
+}
+#footB2 {
+  background-color: black;
+  border: 1px solid white;
+}
+#footB3 {
+  background-color: #FFFB07;
+}
+.footBts {
+  width: 30px;
+  height: 30px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#haradesignstudio {
+  background-image: url(../img/sns/haraDesignInstitute.png);
+  background-position: 67% 50%;
+  background-color: white;
+}
+#designstudio {
+  background-image: url(../img/sns/designCulture.png);
+  background-position: 67% 50%;
+  background-color: black;
+}
+#designboom {
+  margin-left: 1.2px;
+  background-image: url(../img/sns/designBoom.png);
+}
+.footT {
+  margin: 16px auto 0 auto;
+  width: 313px;
+  text-align: center;
+  color: white;
+  font-size: 10px;
+  line-height: 16px;
+  font-weight: 400;
+  opacity: 0.5;
+}

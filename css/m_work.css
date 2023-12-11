@@ -1,0 +1,42 @@
+.subHead {
+  background-image: url(../img/mobile/subhead/img4.png);
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+}
+.boxWrap {
+  margin: 32px 0 64px 0;
+}
+.box {
+  width: 90vw;
+  height: 90vw;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+}
+#box1 {
+  background-image: url(../img/mobile/work/img1.png);
+}
+#box2 {
+  background-image: url(../img/mobile/work/img2.png);
+}
+#box3 {
+  background-image: url(../img/mobile/work/img3.png);
+}
+#box4 {
+  background-image: url(../img/mobile/work/img4.png);
+}
+#box5 {
+  background-image: url(../img/mobile/work/img5.png);
+  width: 90vw;
+  height: 180vw;
+  background-size: cover;
+  background-position-x: 70%;
+  background-position-y: 70%;
+}
+#box6 {
+  background-image: url(../img/mobile/work/img6.png);
+}
+#box7 {
+  background-image: url(../img/mobile/work/img7.png);
+}
