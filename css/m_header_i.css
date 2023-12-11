@@ -1,0 +1,10 @@
+header {
+  height: 128px;
+  background-color: white;
+  display: flex;
+  justify-self: center;
+  align-items: center;
+}
+header img {
+  margin: 0 auto;
+}
